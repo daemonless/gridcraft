@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-14T18:06:38Z",
+  "generated": "2026-10-18T07:28:18Z",
   "image": "gridcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.7.0",
+      "app_version": "0.8.0",
       "arch": "amd64",
-      "generated": "2026-10-14T18:02:11Z",
+      "generated": "2026-10-18T07:23:22Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
