@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T22:33:29Z",
+  "generated": "2026-10-25T19:34:51Z",
   "image": "gridcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.11.1",
+      "app_version": "0.12.1",
       "arch": "aarch64",
-      "generated": "2026-10-22T22:33:00Z",
+      "generated": "2026-10-25T19:34:23Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.5_6,3"
+            "version": "1.30.6_3,3"
           },
           {
             "licenses": [
