@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-25T19:06:22Z",
+  "generated": "2026-10-28T23:10:55Z",
   "image": "gridcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.12.1",
+      "app_version": "0.13.0",
       "arch": "amd64",
-      "generated": "2026-10-25T19:05:32Z",
+      "generated": "2026-10-28T23:10:13Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -252,7 +252,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.131.1"
+            "version": "3.132"
           },
           {
             "licenses": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_4,3"
+            "version": "1.30.6_6,3"
           },
           {
             "licenses": [
